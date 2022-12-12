@@ -6,9 +6,9 @@
          3. Java
          4. Javascript
 - 🌱 I’m currently learning ...
-         1. Cloud 
-         2. Docker
-         3. Networking & CyberSecurity
+-            1. Cloud 
+             2. Docker
+             3. Networking & CyberSecurity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 -           Ph: 8073770084
