@@ -5,6 +5,7 @@
          2. Python
          3. Java
          4. Javascript
+         5. SQL & NoSQL
 - 🌱 I’m currently learning ...
 -            1. Cloud 
              2. Docker
